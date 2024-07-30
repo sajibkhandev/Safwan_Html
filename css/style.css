@@ -119,7 +119,7 @@
 
 h3{
     font-size: 100px;
-    background: red;
+    background: red !important;
 }
 /* =============================
 
