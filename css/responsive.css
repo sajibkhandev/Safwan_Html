@@ -1,0 +1,288 @@
+@media (min-width:320px) and (max-width:575.99px){
+    .navbar-brand img{
+        width: 70%;
+    }
+    
+    .navbar-collapse {
+        background: #00413D;
+        color: white;
+        text-align: center;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .nav-link{
+        color: white;
+    }
+    .nav_btn {
+        padding: 10px 24px;
+       
+        
+    }
+    .overly {
+        width: 0px;
+        height: 0;
+    
+    }
+    .banner .banner_main h2 {
+        font-size: 33px;
+       
+    }
+    .banner .banner_main p {
+        font-size: 12px;
+        
+        width: auto;
+        
+    }
+    .banner .banner_main button {
+      
+        padding: 10px 30px;
+       
+    }
+    .banner .banner_main {
+        padding: 90px 0;
+    }
+    .banner {
+        
+        height: auto;
+        
+    }
+    .title h2 {
+        font-size: 25px;
+       
+        width: auto;
+       
+    }
+    .service .card .card-title {
+        font-size: 20px;
+        
+    }
+    .service .card {
+      
+        margin-bottom: 20px;
+    }
+    .service .card .card-text {
+        font-size: 13px;
+        width: auto;
+       
+    }
+    .service {
+        padding-top: 91px;
+        padding-bottom: 60px;
+    }
+    .about .box {
+        display: block;
+      
+    }
+    .about .box img{
+        margin-bottom: 30px;
+        width: 70%;
+      
+    }
+    .about .about_body h2 {
+        font-size: 30px;
+        
+    }
+    .about .about_body p {
+        font-size: 14px;
+       
+        width: auto;
+    }
+    .about .about_body a {
+        font-size: 16px;
+       
+        padding: 10px 37px;
+        
+    }
+
+
+}
+@media (min-width:576px) and (max-width:767.99px){
+    .navbar-brand img{
+        width: 70%;
+    }
+    
+    .navbar-collapse {
+        background: #00413D;
+        color: white;
+        text-align: center;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .nav-link{
+        color: white;
+    }
+    .nav_btn {
+        padding: 10px 24px;
+       
+        
+    }
+    .overly {
+        width: 0px;
+        height: 0;
+    
+    }
+    .banner .banner_main h2 {
+        font-size: 43px;
+    }
+    .banner .banner_main p {
+        font-size: 12px;
+        
+        width: auto;
+        
+    }
+    .banner .banner_main button {
+      
+        padding: 10px 30px;
+       
+    }
+    .banner .banner_main {
+        padding: 90px 0;
+    }
+    .banner {
+        
+        height: auto;
+        
+    }
+    .title h2 {
+        font-size: 27px;
+        width: auto;
+    }
+    .service .card .card-title {
+        font-size: 20px;
+        
+    }
+    .service .card {
+      
+        margin-bottom: 20px;
+    }
+    .service .card .card-text {
+        font-size: 13px;
+        width: auto;
+       
+    }
+    .service {
+        padding-top: 91px;
+        padding-bottom: 60px;
+    }
+    .about .box {
+        display: block;
+      
+    }
+    .about .box img{
+        margin-bottom: 30px;
+        width: 70%;
+      
+    }
+    .about .about_body h2 {
+        font-size: 30px;
+        
+    }
+    .about .about_body p {
+        font-size: 14px;
+       
+        width: auto;
+    }
+    .about .about_body a {
+        font-size: 16px;
+       
+        padding: 10px 37px;
+        
+    }
+
+
+}
+@media (min-width:768px) and (max-width:991.99px){
+    .navbar-brand img{
+        width: 70%;
+    }
+    
+    .navbar-collapse {
+        background: #00413D;
+        color: white;
+        text-align: center;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .nav-link{
+        color: white;
+    }
+    .nav_btn {
+        padding: 10px 24px;
+       
+        
+    }
+    .overly {
+        width: 0px;
+        height: 0;
+    
+    }
+    .banner .banner_main h2 {
+        font-size: 43px;
+    }
+    .banner .banner_main p {
+        font-size: 12px;
+        
+        width: auto;
+        
+    }
+    .banner .banner_main button {
+      
+        padding: 10px 30px;
+       
+    }
+    .banner .banner_main {
+        padding: 90px 0;
+    }
+    .banner {
+        
+        height: auto;
+        
+    }
+    .title h2 {
+        font-size: 27px;
+        width: auto;
+    }
+    .service .card .card-title {
+        font-size: 20px;
+        
+    }
+    .service .card {
+      
+        margin-bottom: 20px;
+    }
+    .service .card .card-text {
+        font-size: 13px;
+        width: auto;
+       
+    }
+    .service {
+        padding-top: 91px;
+        padding-bottom: 60px;
+    }
+    .about .box {
+        display: block;
+      
+    }
+    .about .box img{
+        margin-bottom: 30px;
+        width: 70%;
+      
+    }
+    .about .about_body h2 {
+        font-size: 30px;
+        
+    }
+    .about .about_body p {
+        font-size: 14px;
+       
+        width: auto;
+    }
+    .about .about_body a {
+        font-size: 16px;
+       
+        padding: 10px 37px;
+        
+    }
+
+
+}
