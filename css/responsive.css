@@ -79,7 +79,7 @@
       
     }
     .about .about_body h2 {
-        font-size: 30px;
+        font-size: 28px;
         
     }
     .about .about_body p {
@@ -93,6 +93,161 @@
         padding: 10px 37px;
         
     }
+    .progres .raduis {
+        width: 160px;
+        height: 160px;
+       
+    }
+
+    /* resoinsive for projec */
+    .project .box {
+        display: block;
+    }
+    .project .box .myicon {
+        
+        padding: 10px;
+        margin-bottom: 30px;
+       
+    }
+    .project .box h2 {
+        font-size: 35px;
+       
+        padding-bottom: 33px;
+    }
+    .project .card{
+        margin: 20px auto;
+    }
+
+    .project .card .card-title {
+        font-size: 16px;
+        
+    }
+    .project .card .card-text {
+        font-size: 25px ;
+        
+    }
+    .project .card a{
+        font-size: 14px;
+    }
+    .project .mainbtn a {
+      
+        padding: 12px 24px;
+        margin-top: 34px;
+       
+    }
+    .title h4 {
+        font-size: 16px;
+        
+    }
+    .title h2 {
+       
+        padding-top: 11px;
+        
+        margin-bottom: 21px;
+    }
+    .portfolio .portfolio_ul{
+        column-gap: 10px !important;
+        padding: 0px !important;
+        margin: 30px 0px !important;
+    }
+    .portfolio .portfolio_ul li{
+        font-size: 14px !important;
+    }
+    .portfolio .card{
+        margin-bottom: 30px;
+    }
+    .portfolio .card .card-title {
+        font-size: 20px;
+        
+    }
+    .portfolio .card .card-text {
+        font-size: 12px ;
+        
+    }
+
+
+    /* resoinsive for projec */
+    /* testimonial for projec */
+    .testimonial .item p {
+        font-size: 14px;
+        width: auto;
+        
+    }
+    .testimonial_row{
+        row-gap: 50px;
+    }
+    .testimonial_row2{
+        padding-left: 10px !important;
+    }
+    .testimonial_row2 h2{
+       font-size: 18px;
+    }
+    .testimonial_row2 h4{
+       font-size: 18px;
+    }
+    .testimonial_row2 ul{
+       column-gap: 4px !important;
+       margin: 0px !important;
+       padding: 0px !important;
+    }
+    .testimonial_row2 ul li{
+       font-size: 12px;
+    }
+    /* testimonial for projec */
+    /* contact for projec */
+    .contact img{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .contact input {
+        padding: 10px 0px;
+        font-size: 14px;
+        width: 100% !important;
+      
+    }
+    .contact input::placeholder{
+        font-size: 14px;
+    }
+    .contact .mainbtn a {
+        
+        padding: 12px 28px;
+        
+    }
+    /* contact part */
+    /* footer part */
+    .footer {
+        
+        padding: 60px 0px;
+       
+    }
+    .footer img{
+        width: 35%;
+    }
+
+    .footer .ulOne {
+        font-size: 12px;
+        column-gap: 0px;
+        padding: 47px 0px;
+    }
+    .footer .ulOne li {
+        border-right: 0px;
+        padding-right: 11px;
+    }
+    .footer .ulTwo {
+        font-size: 14px;
+    }
+    .footer .ulTwo li {
+        width: 30px;
+        height: 30px;
+       
+    }
+    .footer .copyrigth {
+        text-align: left;
+        width: auto;
+       
+       
+    }
+    /* footer part */
 
 
 }
@@ -122,7 +277,7 @@
     
     }
     .banner .banner_main h2 {
-        font-size: 43px;
+        font-size: 42px;
     }
     .banner .banner_main p {
         font-size: 12px;
@@ -144,8 +299,10 @@
         
     }
     .title h2 {
-        font-size: 27px;
+        font-size: 25px;
+       
         width: auto;
+       
     }
     .service .card .card-title {
         font-size: 20px;
@@ -174,7 +331,7 @@
       
     }
     .about .about_body h2 {
-        font-size: 30px;
+        font-size: 28px;
         
     }
     .about .about_body p {
@@ -188,6 +345,161 @@
         padding: 10px 37px;
         
     }
+    .progres .raduis {
+        width: 160px;
+        height: 160px;
+       
+    }
+
+    /* resoinsive for projec */
+    .project .box {
+        display: block;
+    }
+    .project .box .myicon {
+        
+        padding: 10px;
+        margin-bottom: 30px;
+       
+    }
+    .project .box h2 {
+        font-size: 35px;
+       
+        padding-bottom: 33px;
+    }
+    .project .card{
+        margin: 20px auto;
+    }
+
+    .project .card .card-title {
+        font-size: 16px;
+        
+    }
+    .project .card .card-text {
+        font-size: 25px ;
+        
+    }
+    .project .card a{
+        font-size: 14px;
+    }
+    .project .mainbtn a {
+      
+        padding: 12px 24px;
+        margin-top: 34px;
+       
+    }
+    .title h4 {
+        font-size: 16px;
+        
+    }
+    .title h2 {
+       
+        padding-top: 11px;
+        
+        margin-bottom: 21px;
+    }
+    .portfolio .portfolio_ul{
+        column-gap: 10px !important;
+        padding: 0px !important;
+        margin: 30px 0px !important;
+    }
+    .portfolio .portfolio_ul li{
+        font-size: 14px !important;
+    }
+    .portfolio .card{
+        margin-bottom: 30px;
+    }
+    .portfolio .card .card-title {
+        font-size: 20px;
+        
+    }
+    .portfolio .card .card-text {
+        font-size: 12px ;
+        
+    }
+
+
+    /* resoinsive for projec */
+    /* testimonial for projec */
+    .testimonial .item p {
+        font-size: 14px;
+        width: auto;
+        
+    }
+    .testimonial_row{
+        row-gap: 50px;
+    }
+    .testimonial_row2{
+        padding-left: 10px !important;
+    }
+    .testimonial_row2 h2{
+       font-size: 18px;
+    }
+    .testimonial_row2 h4{
+       font-size: 18px;
+    }
+    .testimonial_row2 ul{
+       column-gap: 4px !important;
+       margin: 0px !important;
+       padding: 0px !important;
+    }
+    .testimonial_row2 ul li{
+       font-size: 12px;
+    }
+    /* testimonial for projec */
+    /* contact for projec */
+    .contact img{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .contact input {
+        padding: 10px 0px;
+        font-size: 14px;
+        width: 100% !important;
+      
+    }
+    .contact input::placeholder{
+        font-size: 14px;
+    }
+    .contact .mainbtn a {
+        
+        padding: 12px 28px;
+        
+    }
+    /* contact part */
+    /* footer part */
+    .footer {
+        
+        padding: 60px 0px;
+       
+    }
+    .footer img{
+        width: 35%;
+    }
+
+    .footer .ulOne {
+        font-size: 12px;
+        column-gap: 0px;
+        padding: 47px 0px;
+    }
+    .footer .ulOne li {
+        border-right: 0px;
+        padding-right: 11px;
+    }
+    .footer .ulTwo {
+        font-size: 14px;
+    }
+    .footer .ulTwo li {
+        width: 30px;
+        height: 30px;
+       
+    }
+    .footer .copyrigth {
+        text-align: left;
+        width: auto;
+       
+       
+    }
+    /* footer part */
 
 
 }
@@ -217,7 +529,7 @@
     
     }
     .banner .banner_main h2 {
-        font-size: 43px;
+        font-size: 57px;
     }
     .banner .banner_main p {
         font-size: 12px;
@@ -239,8 +551,10 @@
         
     }
     .title h2 {
-        font-size: 27px;
+        font-size: 25px;
+       
         width: auto;
+       
     }
     .service .card .card-title {
         font-size: 20px;
@@ -269,7 +583,7 @@
       
     }
     .about .about_body h2 {
-        font-size: 30px;
+        font-size: 28px;
         
     }
     .about .about_body p {
@@ -283,6 +597,161 @@
         padding: 10px 37px;
         
     }
+    .progres .raduis {
+        width: 160px;
+        height: 160px;
+       
+    }
+
+    /* resoinsive for projec */
+    .project .box {
+        display: block;
+    }
+    .project .box .myicon {
+        
+        padding: 10px;
+        margin-bottom: 30px;
+       
+    }
+    .project .box h2 {
+        font-size: 35px;
+       
+        padding-bottom: 33px;
+    }
+    .project .card{
+        margin: 20px auto;
+    }
+
+    .project .card .card-title {
+        font-size: 16px;
+        
+    }
+    .project .card .card-text {
+        font-size: 25px ;
+        
+    }
+    .project .card a{
+        font-size: 14px;
+    }
+    .project .mainbtn a {
+      
+        padding: 12px 24px;
+        margin-top: 34px;
+       
+    }
+    .title h4 {
+        font-size: 16px;
+        
+    }
+    .title h2 {
+       
+        padding-top: 11px;
+        
+        margin-bottom: 21px;
+    }
+    .portfolio .portfolio_ul{
+        column-gap: 10px !important;
+        padding: 0px !important;
+        margin: 30px 0px !important;
+    }
+    .portfolio .portfolio_ul li{
+        font-size: 14px !important;
+    }
+    .portfolio .card{
+        margin-bottom: 30px;
+    }
+    .portfolio .card .card-title {
+        font-size: 20px;
+        
+    }
+    .portfolio .card .card-text {
+        font-size: 12px ;
+        
+    }
+
+
+    /* resoinsive for projec */
+    /* testimonial for projec */
+    .testimonial .item p {
+        font-size: 14px;
+        width: auto;
+        
+    }
+    .testimonial_row{
+        row-gap: 50px;
+    }
+    .testimonial_row2{
+        padding-left: 10px !important;
+    }
+    .testimonial_row2 h2{
+       font-size: 18px;
+    }
+    .testimonial_row2 h4{
+       font-size: 18px;
+    }
+    .testimonial_row2 ul{
+       column-gap: 4px !important;
+       margin: 0px !important;
+       padding: 0px !important;
+    }
+    .testimonial_row2 ul li{
+       font-size: 12px;
+    }
+    /* testimonial for projec */
+    /* contact for projec */
+    .contact img{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .contact input {
+        padding: 10px 0px;
+        font-size: 14px;
+        width: 100% !important;
+      
+    }
+    .contact input::placeholder{
+        font-size: 14px;
+    }
+    .contact .mainbtn a {
+        
+        padding: 12px 28px;
+        
+    }
+    /* contact part */
+    /* footer part */
+    .footer {
+        
+        padding: 60px 0px;
+       
+    }
+    .footer img{
+        width: 35%;
+    }
+
+    .footer .ulOne {
+        font-size: 12px;
+        column-gap: 0px;
+        padding: 47px 0px;
+    }
+    .footer .ulOne li {
+        border-right: 0px;
+        padding-right: 11px;
+    }
+    .footer .ulTwo {
+        font-size: 14px;
+    }
+    .footer .ulTwo li {
+        width: 30px;
+        height: 30px;
+       
+    }
+    .footer .copyrigth {
+        text-align: left;
+        width: auto;
+       
+       
+    }
+    /* footer part */
 
 
 }
